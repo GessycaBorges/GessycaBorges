@@ -1,11 +1,11 @@
-<h3> 👩‍💻 Olá! Sou Gessyca Borges </h3>
+<h2> 👩‍💻 Olá! Sou Gessyca Borges </h2>
 Uma engenheira química apaixonada por tecnologia e atualmente em uma empolgante transição de carreira para o mundo da programação. Percebi que minha paixão por solucionar problemas e criar coisas incríveis poderia se expandir para o universo do desenvolvimento de software.
 <h2 align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkc3Vid21sNjYycWJwZm5qYm90ZXFvb3p3YWZsNjNqNnVoOXZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="300">
 </h2> 
 
 
-<h3> 🚀 O Que Me Motiva </h3>
+<h2> 🚀 O Que Me Motiva </h2>
 
 O que mais me anima nessa transição é a oportunidade de aprender constantemente e enfrentar desafios complexos. A combinação entre a lógica da engenharia e a criatividade do desenvolvimento me inspira a encontrar maneiras inovadoras de resolver problemas. Estou ansiosa para contribuir em projetos, aprender com colegas talentosos e continuar crescendo como desenvolvedora.
 
@@ -15,7 +15,7 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 
 ##
 
-<h3> 💻 Interesses </h3>
+<h2> 💻 Interesses </h2>
 
 - Desenvolvimento de Software
 - Back-End Development
@@ -30,7 +30,7 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 ##
 
 <div>
-  <h3>📊 Estatísticas</h3>
+  <h2>📊 Estatísticas</h2>
   <a href="https://github.com/GessycaBorges">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GessycaBorges&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GessycaBorges&layout=compact&langs_count=16&theme=radical"/>
@@ -39,7 +39,7 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 ##
 
 <div>
-  <h3>💻 Vamos nos conectar</h3>
+  <h2>💻 Vamos nos conectar</h2>
   <a href="https://www.linkedin.com/in/gessycaborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
