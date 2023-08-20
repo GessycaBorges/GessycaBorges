@@ -4,16 +4,12 @@ Uma engenheira química apaixonada por tecnologia e atualmente em uma empolgante
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkc3Vid21sNjYycWJwZm5qYm90ZXFvb3p3YWZsNjNqNnVoOXZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" width="300">
 </h2> 
 
-
 <h2> 🚀 O que me motiva </h2>
-
 O que mais me anima nessa transição é a oportunidade de aprender constantemente e enfrentar desafios complexos. A combinação entre a lógica da engenharia e a criatividade do desenvolvimento me inspira a encontrar maneiras inovadoras de resolver problemas. Estou ansiosa para contribuir em projetos, aprender com colegas talentosos e continuar crescendo como desenvolvedora.
 
 <h2 align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI5cGx5ZjZibmc2Z2o3ZzBkcGY0eWdveW1zZG1xY2x1bmZ2dGNveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Coder GIF" width="300">
 </h2> 
-
-##
 
 <h2> ✨ Interesses </h2>
 
@@ -42,8 +38,6 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
   <h2>💻 Vamos nos conectar</h2>
   <a href="https://www.linkedin.com/in/gessycaborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
 
 Sinta-se à vontade para se conectar comigo e compartilhar suas ideias ou projetos. Estou sempre aberta a colaborações e novas oportunidades de aprendizado!
 <h2 align="center">
