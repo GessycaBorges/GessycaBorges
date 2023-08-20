@@ -15,7 +15,7 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 
 ##
 
-<h2> 💻 Interesses </h2>
+<h2> ✨ Interesses </h2>
 
 - Desenvolvimento de Software
 - Back-End Development
