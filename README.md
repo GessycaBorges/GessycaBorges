@@ -5,7 +5,7 @@ Uma engenheira química apaixonada por tecnologia e atualmente em uma empolgante
 </h2> 
 
 
-<h2> 🚀 O Que me motiva </h2>
+<h2> 🚀 O que me motiva </h2>
 
 O que mais me anima nessa transição é a oportunidade de aprender constantemente e enfrentar desafios complexos. A combinação entre a lógica da engenharia e a criatividade do desenvolvimento me inspira a encontrar maneiras inovadoras de resolver problemas. Estou ansiosa para contribuir em projetos, aprender com colegas talentosos e continuar crescendo como desenvolvedora.
 
