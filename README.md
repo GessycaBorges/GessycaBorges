@@ -28,8 +28,9 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 
 ##
 
+  ## 📊 Estatísticas
+  
 <div>
-  <h2>📊 Estatísticas</h2>
   <a href="https://github.com/GessycaBorges">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GessycaBorges&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GessycaBorges&layout=compact&langs_count=16&theme=radical&hide=Dockerfile"/>
@@ -37,10 +38,10 @@ O que mais me anima nessa transição é a oportunidade de aprender constantemen
 
 ##
 
+  ## 💻 Vamos nos conectar
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GessycaBorges)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gessycaborges/)
+    
 <div>
-  <h2>💻 Vamos nos conectar</h2>
-  <a href="https://www.linkedin.com/in/gessycaborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 Sinta-se à vontade para se conectar comigo e compartilhar suas ideias ou projetos. Estou sempre aberta a colaborações e novas oportunidades de aprendizado!
 <div align="center">
