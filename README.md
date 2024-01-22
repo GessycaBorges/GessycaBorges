@@ -36,7 +36,7 @@ O que mais me anima é a oportunidade de aprender constantemente e enfrentar des
 <div>
   <a href="https://github.com/GessycaBorges">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GessycaBorges&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GessycaBorges&layout=compact&langs_count=16&theme=radical&hide=Dockerfile"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GessycaBorges&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ##
